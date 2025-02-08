@@ -4,10 +4,11 @@ This section contains all the HackTheBox machines I have completed. Each entry i
 
 | Name               | Difficulty    | Date Completed | Walkthrough                     |
 |--------------------|---------------|----------------|---------------------------------|
-| **Redeemer**       | 🟣 Very Easy  | 08-02-2025     |  |
-| **Dancing**        | 🟣 Very Easy       | 07-02-2025     |  |
-| **Fawn**           | 🟣 Very Easy     | 07-02-2025     |  |
-| **Meow**           | 🟣 Very Easy       | 07-02-2025     |  |
+| <div align="center">**Redeemer**<br><img src="./Redeemer/logo.png" alt="Redeemer" width="50"></div>   | 🟣 Very Easy  | <div align="center">08-02-2025</div>     | [View Walkthrough](./Redeemer/README.md) |
+| <div align="center">**Dancing**<br><img src="./Dancing/logo.png" alt="Dancing" width="50"></div>       | 🟣 Very Easy  | <div align="center">07-02-2025</div>     | [View Walkthrough](./Dancing/README.md) |
+| <div align="center">**Fawn**<br><img src="./Fawn/logo.png" alt="Fawn" width="50"></div>                   | 🟣 Very Easy  | <div align="center">07-02-2025</div>     | [View Walkthrough](./Fawn/README.md) |
+| <div align="center">**Meow**<br><img src="./Meow/logo.png" alt="Meow" width="50"></div>                   | 🟣 Very Easy  | <div align="center">07-02-2025</div>     | [View Walkthrough](./Meow/README.md) |
+
 
 ## Difficulty Icons
 - 🟣 Very Easy
