@@ -4,6 +4,7 @@ This section contains all the HackTheBox machines I have completed. Each entry i
 
 | Name               | Difficulty    | Date Completed | Walkthrough                     |
 |--------------------|---------------|----------------|---------------------------------|
+| <div align="center">**OnlyHacks**</div> | 🟣 Very Easy  | <div align="center">25-02-2025</div>     | [View Walkthrough](./OnlyHacks/README.md) |
 | <div align="center">**Responder**<br><img src="./Responder/logo.png" alt="Responder" width="50"></div>   | 🟣 Very Easy  | <div align="center">16-02-2025</div>     | [View Walkthrough](./Responder/README.md) |
 | <div align="center">**Crocodile**<br><img src="./Crocodile/logo.png" alt="Crocodile" width="50"></div>   | 🟣 Very Easy  | <div align="center">16-02-2025</div>     | [View Walkthrough](./Crocodile/README.md) |
 | <div align="center">**Sequel**<br><img src="./Sequel/logo.png" alt="Sequel" width="50"></div>   | 🟣 Very Easy  | <div align="center">12-02-2025</div>     | [View Walkthrough](./Sequel/README.md) |
